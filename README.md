@@ -85,3 +85,7 @@ build/karate-reports/karate-summary.html
 ```
 
 Abrilo directamente en el navegador o usá el comando `aggregate` que lo abre automáticamente (Linux/Mac).
+
+
+# Evidencia de test 
+![alt text](image.png)
